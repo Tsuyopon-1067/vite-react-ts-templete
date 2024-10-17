@@ -1,1 +1,1 @@
-yarn lint-staged
+yarn -s lint-staged
